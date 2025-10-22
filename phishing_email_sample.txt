@@ -1,0 +1,17 @@
+The following is an example of a sample phishing email:
+
+Hi John,
+
+I'm Alex from Vanguard Security, we're contracted by Contoso Corp to provide physical security services. Our cameras recently recorded unusual activity at your desk area. We are currently looking into this matter and need your prompt assistance. Honestly, we're not quite sure what to make of it!
+
+Can you have a quick look at the footage and help us identify a) whether this was you and b) whether anything was missing from your desk?
+
+View Security Footage
+
+If it's easier, we've also put the clips into the attached PowerPoint file (slides 2 and 5).
+
+Please review the footage and let me know!
+
+Best regards,
+Alex Lee
+Vanguard Security
